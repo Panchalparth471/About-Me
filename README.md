@@ -16,3 +16,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=panchalparth471&show_icons=true&locale=en" alt="panchalparth471" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=panchalparth471&" alt="panchalparth471" /></p>
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Panchalparth471&label=Profile%20Views&color=0&icon=0&pretty=false" />
+</a>

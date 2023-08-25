@@ -18,4 +18,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=panchalparth471&" alt="panchalparth471" /></p>
 
-![](https://komarev.com/ghpvc/?username=Panchalparth471&color=green)
+![](https://komarev.com/ghpvc/?username=Panchalparth471&color=green&style=for-the-badge)

@@ -1,8 +1,8 @@
 # About-Me
 <h1 align="center">Hi 👋, I'm Zynox The Dev</h1>
-<h3 align="center">A curious SY CSE student trying to learn</h3>
+<h3 align="center">A curious TY CSE student trying to learn</h3>
 
-- 🌱 I’m currently learning **Mern Stack Development**
+- 🌱 I’m currently learning **Data Science**
 
 - 📫 How to reach me **panchalparth471@gmail.com**
 
